@@ -1,4 +1,4 @@
-![LOGO](https://github.com/Ahmadkazmi4343/Ahmadkazmi4343-Ahmadkazmi4343/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
+[![LOGO](https://github.com/Ahmadkazmi4343/Ahmadkazmi4343-Ahmadkazmi4343/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ahmad Kazmi</h1>
 
 <h3 align="center">A passionate frontend developer and Data Analyst from India</h3>
