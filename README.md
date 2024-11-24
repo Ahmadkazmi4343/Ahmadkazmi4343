@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kazmiahmad82@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kQOiEjJkmBLnwc_D4a-AkbLpzbKKJXBH/view?usp=sharing](https://drive.google.com/file/d/1kQOiEjJkmBLnwc_D4a-AkbLpzbKKJXBH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Bbc-_u3MupHKvWYzEwALNXIcloBJds1U/view?usp=sharing](https://drive.google.com/file/d/1Bbc-_u3MupHKvWYzEwALNXIcloBJds1U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
